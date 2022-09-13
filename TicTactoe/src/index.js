@@ -30,6 +30,7 @@ const addItem = (e) => {
     updateList();
 
     groceryForm.reset();
+    
 }
 
 //create action to render grocery list items
